@@ -12,9 +12,10 @@ qrcode_code.ipynb --> notebook test des programmes
 # Package à télécharger 
 ## windows
 
-### QRcode
+### Bibliothèque mère
 pip install pillow
 
+### QRcode
 pip install qrcode
 
 ### code barre
