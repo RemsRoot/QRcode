@@ -14,8 +14,10 @@ qrcode_code.ipynb --> notebook test des programmes
 
 ### QRcode
 pip install pillow
+
 pip install qrcode
 
 ### code barre
 pip install python-barcode 
+
 pip install pyzbar
